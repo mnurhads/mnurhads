@@ -26,11 +26,11 @@ education_experient:
 
 fields_of_interests:
   [
-    "Web Development",
+    "Backend Developer",
     "Data Modeling",
     "UI/UX",
     "Web Design",
-    "Machine Learning",
+    "Data Engineer",
   ]
 project_experience:
   [
