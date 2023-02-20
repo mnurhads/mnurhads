@@ -21,7 +21,7 @@ education_experient:
   [
     "NoSQL Spesialty by Alibaba Cloud",
     "Cloud Structure by Amazon Web Services",
-    "Data Warehouse by Tokopedia Academy",
+    "Data Warehouse by Ruang Guru",
   ]
 
 fields_of_interests:
