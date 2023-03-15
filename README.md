@@ -16,7 +16,7 @@
 ```yaml
 name: Muhammad Nur Hadi
 located_in: Semarang, Indonesia
-current_job: Software Development
+current_job: Software Engineer
 education_experient:
   [
     "NoSQL Spesialty by Alibaba Cloud",
@@ -37,7 +37,7 @@ project_experience:
     "Alhamdulillah lumayan katah",
   ]
   
-currently_learning: ["Docker, Kubernetes"]
+currently_learning: ["Docker, Kubernetes, Apache Spark"]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Lato-Lato", "Code Hero"]
 ```
